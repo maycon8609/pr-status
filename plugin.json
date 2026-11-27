@@ -1,0 +1,20 @@
+{
+  "name": "pr-status",
+  "displayName": "PR Status & Review Audit",
+  "version": "1.0.0",
+  "description": "Multi-repository pull request review audit and approval readiness tracker grouped by task card.",
+  "repository": "https://github.com/maycon8609/pr-status",
+  "author": {
+    "name": "Maycon Silva"
+  },
+  "keywords": [
+    "github",
+    "pull-requests",
+    "code-review",
+    "qa",
+    "developer-tools",
+    "agent-skill",
+    "antigravity"
+  ],
+  "skills": ["skills/pr-status"]
+}
